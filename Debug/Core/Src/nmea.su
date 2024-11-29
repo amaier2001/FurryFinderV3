@@ -1,0 +1,2 @@
+../Core/Src/nmea.c:3:6:PARSER	56	static
+../Core/Src/nmea.c:104:7:strtok_new	24	static
